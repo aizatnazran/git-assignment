@@ -1,1 +1,1 @@
-Hello, Git world!
+Hello, Git world! This is an edited message for assignment day 4.
